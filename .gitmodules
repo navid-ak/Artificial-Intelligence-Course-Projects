@@ -1,0 +1,9 @@
+[submodule "AI-basics"]
+	path = AI-basics
+	url = https://github.com/navidakbari123/AI-basics.git
+[submodule "search"]
+	path = search
+	url = https://github.com/navidakbari123/search.git
+[submodule "decipher-text-using-genetic"]
+	path = decipher-text-using-genetic
+	url = https://github.com/navidakbari123/decipher-text-using-genetic.git
