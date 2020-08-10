@@ -1,9 +1,21 @@
 [submodule "AI-basics"]
 	path = AI-basics
 	url = https://github.com/navidakbari123/AI-basics.git
-[submodule "search"]
-	path = search
-	url = https://github.com/navidakbari123/search.git
-[submodule "decipher-text-using-genetic"]
-	path = decipher-text-using-genetic
-	url = https://github.com/navidakbari123/decipher-text-using-genetic.git
+[submodule "Search-algorithms"]
+	path = Search-algorithms
+	url = https://github.com/navid-ak/Search-algorithms.git
+[submodule "Decipher-text-using-genetic"]
+	path = Decipher-text-using-genetic
+	url = https://github.com/navid-ak/Decipher-text-using-genetic.git
+[submodule "News-Naive-Bayes-Classification"]
+	path = News-Naive-Bayes-Classification
+	url = https://github.com/navid-ak/News-Naive-Bayes-Classification.git
+[submodule "Linear-Classification"]
+	path = Linear-Classification
+	url = https://github.com/navid-ak/Linear-Classification.git
+[submodule "Image-Neural-Network-Classification"]
+	path = Image-Neural-Network-Classification
+	url = https://github.com/navid-ak/Image-Neural-Network-Classification.git
+[submodule "Price-Regression"]
+	path = Price-Regression
+	url = https://github.com/navid-ak/Price-Regression.git
