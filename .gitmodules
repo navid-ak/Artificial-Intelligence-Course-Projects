@@ -4,9 +4,9 @@
 [submodule "Search-algorithms"]
 	path = Search-algorithms
 	url = https://github.com/navid-ak/Search-algorithms.git
-[submodule "Decipher-text-using-genetic"]
-	path = Decipher-text-using-genetic
-	url = https://github.com/navid-ak/Decipher-text-using-genetic.git
+# [submodule "Decipher-text-using-genetic"]
+# 	path = Decipher-text-using-genetic
+# 	url = https://github.com/navid-ak/Decipher-text-using-genetic.git
 [submodule "News-Naive-Bayes-Classification"]
 	path = News-Naive-Bayes-Classification
 	url = https://github.com/navid-ak/News-Naive-Bayes-Classification.git
